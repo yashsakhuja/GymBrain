@@ -23,5 +23,6 @@ All of this is integrated with Twilio’s WhatsApp API, ensuring you receive a d
 You will receive a message on WhatsApp each morning containing the names of the exercises and links to the instructional YouTube videos.
 
 Demo Whatsapp Message:
+
 <img width="294" alt="Screenshot 2024-11-30 at 20 02 23" src="https://github.com/user-attachments/assets/85a9f17c-2b4e-47ba-94a9-ad62633954d5">
 
