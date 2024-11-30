@@ -2,6 +2,8 @@
 
 GymBrain is an AI-powered gym exercise recommender that uses Google's Gemini and Langchain's infrastructure to deliver a personalised workout plan directly to your WhatsApp every morning.
 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTziWvy7umLtpiD9ZHrfH5qKDt7sB65sNwpDw&s
+
 ---
 
 ## How it Works:
