@@ -1,6 +1,6 @@
 # GymBrain 🏋️🧠
 
-GymBrain is an AI-powered gym exercise recommender that uses Google's Gemini and Langchain's infrastructure to deliver a personalized workout plan directly to your WhatsApp every morning.
+GymBrain is an AI-powered gym exercise recommender that uses Google's Gemini and Langchain's infrastructure to deliver a personalised workout plan directly to your WhatsApp every morning.
 
 ---
 
@@ -12,7 +12,7 @@ We scrape a list of gym exercises from PureGym’s official YouTube playlist. Th
 https://youtube.com/playlist?list=PLsliPlpqH8JD9Iy1A3WiiSEGPMvpX3voq&feature=shared
 
 ### Step 2: Upload Your Latest Health Report
-Upload your most recent health report, which is analyzsd to assess your vitals and create a customized gym plan that suits your fitness goals.
+Upload your most recent health report, which is analysed to assess your vitals and create a customised gym plan that suits your fitness goals.
 
 ### Step 3: Data Processing & Prompt Engineering
 We apply advanced prompt engineering to process the scraped data and format the exercises in a user-friendly list. Each exercise comes with a YouTube video link to guide you through proper execution.
