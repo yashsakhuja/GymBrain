@@ -17,7 +17,7 @@ Upload your most recent health report, which is analyzsd to assess your vitals a
 ### Step 3: Data Processing & Prompt Engineering
 We apply advanced prompt engineering to process the scraped data and format the exercises in a user-friendly list. Each exercise comes with a YouTube video link to guide you through proper execution.
 
-Update the Prompts with Fitness Goals
+Updating the Prompts with Fitness Goals
 
 ### Step 4: WhatsApp Integration with Twilio
 All of this is integrated with Twilio’s WhatsApp API, ensuring you receive a daily WhatsApp message with a list of exercises, complete with links to video demonstrations.
